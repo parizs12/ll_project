@@ -1,8 +1,5 @@
 name: "ll_project"
 type: "python:3.12"
-db:
-  type: postgresql:13
-  disk: 2048
 
 relationships:
   database: "db:postgresql"
