@@ -157,3 +157,4 @@ if config.is_valid_platform():
                 'PORT': db_settings['port'],
             },
         }
+
